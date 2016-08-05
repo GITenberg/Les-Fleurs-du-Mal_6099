@@ -1,0 +1,33 @@
+_repo: Les-Fleurs-du-Mal_6099
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6099'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+- GITenberg
+title: Les Fleurs du Mal
+url: http://www.gutenberg.org/ebooks/6099
