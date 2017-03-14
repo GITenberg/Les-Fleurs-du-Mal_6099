@@ -1,5 +1,8 @@
 _repo: Les-Fleurs-du-Mal_6099
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baudelaire, Charles
@@ -14,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_Baudelaire
     - http://en.wikipedia.org/wiki/Charles_Baudelaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6099#Les-Fleurs-du-Mal
 gutenberg_bookshelf:
 - FR Poésie
 - Banned Books from Anne Haight's list
